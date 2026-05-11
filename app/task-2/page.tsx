@@ -5,7 +5,7 @@ export default function BelajarPage(){
                 <div className="bg-[#e3f6fb] p-6 w-96 h-60 rounded-4xl flex flex-col justify-between">
                     <div className="flex gap-3">
                         <img src="palette.svg" alt="pallete" />
-                        <p className="font-sans text-black">Design</p>
+                        <p className="font-sans text-black">Design</p>  
                     </div>
                     <div className="flex justify-between items-end">
                         <div>
