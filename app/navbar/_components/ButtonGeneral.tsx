@@ -1,7 +1,7 @@
 export default function ButtonGeneral() {
   return (
     <div className="flex  flex-col gap-5">
-      <div className="flex flex-row gap-4 bg-white w-50 h-11 items-center rounded-2xl pl-7">
+      <div className="flex flex-row gap-4 bg-white w-64 h-11 items-center rounded-2xl pl-7">
         <button className="flex gap-4">
           <img src="folder.svg" alt="" className="w-6 h-6" />
           <p className="text-black font-bold">Projects</p>
